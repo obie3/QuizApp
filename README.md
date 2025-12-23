@@ -42,13 +42,9 @@ The code here is **IP-safe** and intended for recruiters or engineers to quickly
 
 src/
 │── components/ # Reusable UI components
-
 │── screens/ # Feature screens like Quiz and Results
-
 │── navigation/ # Navigation setup
-
 │── utils/ # Helper functions
-
 App.tsx # Application entry point
 
 
